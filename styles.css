@@ -3,6 +3,7 @@
 main {
 	width : 150px;
 	height : 150px;
+	background: black;
 }
 p{
 	color : white;
